@@ -1,28 +1,39 @@
-设计模式: 
-MVC
-MVP
-MVVM
+#设计模式 
+##MVC
+##MVP
+##MVVM
 
-网络请求:
-Volley
-OKHttp
-Retrofit
-RxJava/RxAndroid
-https://github.com/ReactiveX/RxAndroid
+#网络请求
+项目|链接
+---|---
+Volley|
+OKHttp|
+Retrofit|
+RxJava/RxAndroid|https://github.com/ReactiveX/RxAndroid  
 http://gank.io/post/560e15be2dca930e00da1083#toc_26
 
-图片加载:Volley, ImageLoder, Picasso, Glide, Fresco
-偷懒: 
-Buffer Knife
+#图片加载
+##Volley
+##ImageLoder
+##Picasso
+##Glide
+##Fresco
+
+#偷懒
+##Buffer Knife
 https://github.com/siyehua/butterknife
 http://jakewharton.github.io/butterknife/
-数据库: GreenDao
-下拉刷新:
 
-Log:
-logger:简洁的Log工具
+#数据库
+##GreenDao
+
+#下拉刷新
+
+#Log
+##logger:简洁的Log工具
 https://github.com/orhanobut/logger
-工具
+
+#工具
 devstore:项目一体化,从开发到结束
 http://www.devstore.cn/
 
