@@ -15,25 +15,32 @@ RxJava/RxAndroid|https://github.com/ReactiveX/RxAndroid
   |http://gank.io/post/560e15be2dca930e00da1083#toc_26
 
 #图片加载
-##Volley
-##ImageLoder
-##Picasso
-##Glide
-##Fresco
+项目|链接
+---|---
+Volley|
+ImageLoder|
+Picasso|
+Glide|
+Fresco|
 
 #偷懒
-##Buffer Knife
-https://github.com/siyehua/butterknife
-http://jakewharton.github.io/butterknife/
+项目|链接
+---|---
+Buffer Knife|https://github.com/siyehua/butterknife
+  |http://jakewharton.github.io/butterknife/
 
 #数据库
-##GreenDao
+项目|链接
+---|---
+GreenDao|
 
 #下拉刷新
 
 #Log
-##logger:简洁的Log工具
-https://github.com/orhanobut/logger
+项目|说明
+---|---
+[logger](https://github.com/orhanobut/logger)|简洁的Log工具
+
 
 #工具
 devstore:项目一体化,从开发到结束
