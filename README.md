@@ -11,8 +11,7 @@ MVVM|
 Volley|
 OKHttp|
 Retrofit|
-RxJava/RxAndroid|https://github.com/ReactiveX/RxAndroid 
-  |http://gank.io/post/560e15be2dca930e00da1083#toc_26
+[RxJava/RxAndroid](https://github.com/ReactiveX/RxAndroid) |[Rx入门介绍](http://gank.io/post/560e15be2dca930e00da1083#toc_26)
 
 #图片加载
 项目|链接
@@ -22,6 +21,7 @@ ImageLoder|
 Picasso|
 Glide|
 Fresco|
+Gson|
 
 #偷懒
 项目|说明|文档
@@ -43,6 +43,17 @@ GreenDao|
 
 
 #工具
+项目|说明
+---|---
+[scalpel](https://github.com/JakeWharton/scalpel)|查看布局神器
+
+
+#文章
+文章|
+---|---
+[Android应用框架延边石](http://mp.weixin.qq.com/s?__biz=MzA4MjU5NTY0NA==&mid=401314593&idx=1&sn=21d83ed33d307944937afe00abfe1ac3&scene=4#wechat_redirect)|
+
+#网站
 devstore:项目一体化,从开发到结束
 http://www.devstore.cn/
 
