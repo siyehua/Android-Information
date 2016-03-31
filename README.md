@@ -1,9 +1,9 @@
 #设计模式 
-模式|链接
+模式|资料
 ---|---
-MVC|
-MVP|
-MVVM|
+MVC|传统Android框架
+[MVP](http://www.v2ex.com/t/212456#reply6)|[Android MVP 实战——MVP 在 Android 中的简单应用](http://www.v2ex.com/t/212695#reply5)
+MVVM|[Android MVVM到底是啥？看完就明白了](http://mp.weixin.qq.com/s?__biz=MzA4MjU5NTY0NA==&mid=401410759&idx=1&sn=89f0e3ddf9f21f6a5d4de4388ef2c32f&scene=4#wechat_redirect)
 
 #网络请求
 项目|链接
@@ -20,7 +20,7 @@ Volley|
 ImageLoder|
 Picasso|
 Glide|
-Fresco|
+[Fresco](https://github.com/facebook/fresco)|
 Gson|
 
 #偷懒
@@ -40,18 +40,28 @@ GreenDao|
 项目|说明
 ---|---
 [logger](https://github.com/orhanobut/logger)|简洁的Log工具
+[Logger](https://github.com/tianzhijiexian/logger)|[更人性化的Log](https://github.com/tianzhijiexian/Android-Best-Practices)
 
 
 #工具
 项目|说明
 ---|---
 [scalpel](https://github.com/JakeWharton/scalpel)|查看布局神器
+[leakcanary](https://github.com/square/leakcanary)|找出内存泄漏
+[BlockCanary](http://blog.zhaiyifan.cn/2016/01/16/BlockCanaryTransparentPerformanceMonitor/)|轻松找出Android App界面卡顿元凶
 
 
 #文章
 文章|
 ---|---
-[Android应用框架延边石](http://mp.weixin.qq.com/s?__biz=MzA4MjU5NTY0NA==&mid=401314593&idx=1&sn=21d83ed33d307944937afe00abfe1ac3&scene=4#wechat_redirect)|
+[Android应用框架演变史](http://mp.weixin.qq.com/s?__biz=MzA4MjU5NTY0NA==&mid=401314593&idx=1&sn=21d83ed33d307944937afe00abfe1ac3&scene=4#wechat_redirect)|
+[关于烂代码的那些事](http://mp.weixin.qq.com/s?__biz=MzA4MjU5NTY0NA==&mid=401314593&idx=1&sn=21d83ed33d307944937afe00abfe1ac3&scene=4#wechat_redirect)|
+[Android 6.0运行时权限，看这篇就够了](http://droidyue.com/blog/2016/01/17/understanding-marshmallow-runtime-permission/)|
+[APK魔鬼瘦身](http://mp.weixin.qq.com/s?__biz=MzA4MjU5NTY0NA==&mid=402168736&idx=1&sn=723e9fddacfecdfbeee3d3365f6d1a2f&scene=4#wechat_redirect)|
+[如何自定义Android注解？](http://mp.weixin.qq.com/s?__biz=MzA4MjU5NTY0NA==&mid=402332603&idx=1&sn=a04a622f8feb0ce35bc2356adfb18698&scene=4#wechat_redirect)|
+[Android Bitmap面面观](http://mp.weixin.qq.com/s?__biz=MzA4MjU5NTY0NA==&mid=404530070&idx=1&sn=e2580b69d6ec73dabf8160216aa6702a&scene=4#wechat_redirect)|
+
+
 
 #网站
 devstore:项目一体化,从开发到结束
@@ -115,6 +125,18 @@ Crash分析
 国外：appsee, 绝对黑科技，PM最爱，转化率什么的再也不怕上不去了，用过后我们团队成员一致好评，在我的微
 信公众号里有专门文章介绍使用体验。
 
+Dagger, jsr250
 
+Rx大家族: RxJava, RxAndroid, RxBinding
+
+Retrofit
+
+EventBus
+
+Realm
+
+support库, data binding
+
+LeakCanary, BlockCanary
 
         
