@@ -1,7 +1,9 @@
 #设计模式 
-##MVC
-##MVP
-##MVVM
+模式|链接
+---|---
+MVC|
+MVP|
+MVVM|
 
 #网络请求
 项目|链接
@@ -9,8 +11,8 @@
 Volley|
 OKHttp|
 Retrofit|
-RxJava/RxAndroid|https://github.com/ReactiveX/RxAndroid  
-http://gank.io/post/560e15be2dca930e00da1083#toc_26
+RxJava/RxAndroid|https://github.com/ReactiveX/RxAndroid 
+|http://gank.io/post/560e15be2dca930e00da1083#toc_26
 
 #图片加载
 ##Volley
