@@ -12,7 +12,7 @@ Volley|
 OKHttp|
 Retrofit|
 RxJava/RxAndroid|https://github.com/ReactiveX/RxAndroid 
-|http://gank.io/post/560e15be2dca930e00da1083#toc_26
+  |http://gank.io/post/560e15be2dca930e00da1083#toc_26
 
 #图片加载
 ##Volley
