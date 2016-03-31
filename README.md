@@ -24,10 +24,10 @@ Glide|
 Fresco|
 
 #偷懒
-项目|链接
----|---
-Buffer Knife|https://github.com/siyehua/butterknife
-  |http://jakewharton.github.io/butterknife/
+项目|说明|文档
+---|---|---
+[Buffer Knife](https://github.com/siyehua/butterknife)|写更少的代码|[官方文档](http://jakewharton.github.io/butterknife/)
+[Dagger](http://square.github.io/dagger/)|快速依赖注入器|[官方文档翻译](http://fanxu.me/post/2013-07-18#main)
 
 #数据库
 项目|链接
