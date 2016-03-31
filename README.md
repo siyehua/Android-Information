@@ -10,7 +10,7 @@ MVVM|[Android MVVM到底是啥？看完就明白了](http://mp.weixin.qq.com/s?_
 ---|---
 Volley|
 OKHttp|
-Retrofit|
+[Retrofit](https://github.com/square/retrofit)|[Retrofit使用教程](http://www.devwiki.net/categories/Retrofit%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/)
 [RxJava](https://github.com/ReactiveX/RxJava) |[Rx入门介绍](http://blog.csdn.net/lzyzsd?viewmode=contents)
 [RxJava For RxAndroid](https://github.com/ReactiveX/RxAndroid) |[Rx For Android 入门介绍](http://gank.io/post/560e15be2dca930e00da1083#toc_26)
 [RxJava For RxBingding](https://github.com/JakeWharton/RxBinding)|
@@ -30,6 +30,7 @@ Gson|
 ---|---|---
 [Buffer Knife](https://github.com/siyehua/butterknife)|写更少的代码|[官方文档](http://jakewharton.github.io/butterknife/)
 [Dagger](http://square.github.io/dagger/)|快速依赖注入器|[官方文档翻译](http://fanxu.me/post/2013-07-18#main)
+[Dagger2](https://github.com/google/dagger)|[Dagger2: Step To Step](http://www.jianshu.com/p/7505d92d7748)
 
 #数据库
 项目|链接
@@ -51,6 +52,7 @@ GreenDao|
 [scalpel](https://github.com/JakeWharton/scalpel)|查看布局神器
 [leakcanary](https://github.com/square/leakcanary)|找出内存泄漏
 [BlockCanary](http://blog.zhaiyifan.cn/2016/01/16/BlockCanaryTransparentPerformanceMonitor/)|轻松找出Android App界面卡顿元凶
+[Lambda for Android](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2016/0325/4078.html)|让代码更简洁,避免创建内部类
 
 
 #文章
@@ -66,6 +68,9 @@ GreenDao|
 
 
 #网站
+网站|介绍
+---|---
+[Square](http://square.github.io/#android)|强大的开源网站
 devstore:项目一体化,从开发到结束
 http://www.devstore.cn/
 
