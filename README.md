@@ -3,6 +3,8 @@
 ---|---
 MVC|传统Android框架
 [MVP](http://www.v2ex.com/t/212456#reply6)|[Android MVP 实战——MVP 在 Android 中的简单应用](http://www.v2ex.com/t/212695#reply5)
+  |[MVP详解 (上)](http://www.jianshu.com/p/9a6845b26856)
+  |[MVP详解 (下)](http://www.jianshu.com/p/0590f530c617#)  
 MVVM|[Android MVVM到底是啥？看完就明白了](http://mp.weixin.qq.com/s?__biz=MzA4MjU5NTY0NA==&mid=401410759&idx=1&sn=89f0e3ddf9f21f6a5d4de4388ef2c32f&scene=4#wechat_redirect)
 
 #网络请求
@@ -64,6 +66,7 @@ GreenDao|
 [APK魔鬼瘦身](http://mp.weixin.qq.com/s?__biz=MzA4MjU5NTY0NA==&mid=402168736&idx=1&sn=723e9fddacfecdfbeee3d3365f6d1a2f&scene=4#wechat_redirect)|
 [如何自定义Android注解？](http://mp.weixin.qq.com/s?__biz=MzA4MjU5NTY0NA==&mid=402332603&idx=1&sn=a04a622f8feb0ce35bc2356adfb18698&scene=4#wechat_redirect)|
 [Android Bitmap面面观](http://mp.weixin.qq.com/s?__biz=MzA4MjU5NTY0NA==&mid=404530070&idx=1&sn=e2580b69d6ec73dabf8160216aa6702a&scene=4#wechat_redirect)|
+[微信Android客户端后台保活经验分享](https://mp.weixin.qq.com/s?__biz=MzA3ODg4MDk0Ng==&mid=403254393&idx=1&sn=8dc0e3a03031177777b5a5876cb210cc&scene=1&srcid=0402uDoqRaKQffY51mJ0N8G6&key=710a5d99946419d98b567bf76a8e4f11bb50879bb6d2238881b4ab84e10cc0840e943ea3003a0106d73399e336311cec&ascene=0&uin=MTYzMjY2MTE1&devicetype=iMac+MacBookPro10%2C1+OSX+OSX+10.11.4+build(15E65)&version=11020201&pass_ticket=gGDjhIlTQ7vPThoj%2FZ5xrdCNNXWwfjAXhqZnbyhnJmQ%3D)|
 
 
 
