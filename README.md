@@ -55,7 +55,7 @@ GreenDao|
 [leakcanary](https://github.com/square/leakcanary)|找出内存泄漏
 [BlockCanary](http://blog.zhaiyifan.cn/2016/01/16/BlockCanaryTransparentPerformanceMonitor/)|轻松找出Android App界面卡顿元凶
 [Lambda for Android](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2016/0325/4078.html)|让代码更简洁,避免创建内部类
-
+[nimbledroid](https://nimbledroid.com/)|[检查APP启动卡顿问题](http://blog.nimbledroid.com/2016/03/21/ways-to-hang-main-thread-zh.html)
 
 #文章
 文章|
