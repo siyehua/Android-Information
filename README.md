@@ -22,7 +22,7 @@ OKHttp|
 ---|---
 Volley|
 ImageLoder|
-Picasso|
+[Picasso](https://github.com/square/picasso)|
 [Glide](https://github.com/bumptech/glide)|[Glide 系列使用教程](http://mrfu.me/2016/02/27/Glide_Getting_Started/)
 [Fresco](https://github.com/facebook/fresco)|
 Gson|
