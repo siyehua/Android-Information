@@ -10,21 +10,21 @@ MVVM|[Android MVVM到底是啥？看完就明白了](http://mp.weixin.qq.com/s?_
 #网络请求
 项目|链接
 ---|---
-Volley(https://github.com/siyehua/VolleyDemo)|[Volley使用详解](http://blog.csdn.net/guolin_blog/article/details/17482095)
 [OKHttp](https://github.com/square/okhttp)|[官方使用手册](http://square.github.io/okhttp/)
 [Retrofit](https://github.com/square/retrofit)|[Retrofit使用教程](http://www.devwiki.net/categories/Retrofit%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/)
 [RxJava](https://github.com/ReactiveX/RxJava) |[Rx入门介绍](http://blog.csdn.net/lzyzsd?viewmode=contents)
 [RxJava For RxAndroid](https://github.com/ReactiveX/RxAndroid) |[Rx For Android 入门介绍](http://gank.io/post/560e15be2dca930e00da1083#toc_26)
 [RxJava For RxBingding](https://github.com/JakeWharton/RxBinding)|
+[Volley](https://github.com/siyehua/VolleyDemo)|[Volley使用详解](http://blog.csdn.net/guolin_blog/article/details/17482095)
 
 #图片加载
 项目|链接
 ---|---
-Volley|
+[Fresco](https://github.com/facebook/fresco)|
+[Glide](https://github.com/bumptech/glide)|[Glide 系列使用教程](http://mrfu.me/2016/02/27/Glide_Getting_Started/)
 ImageLoder|
 [Picasso](https://github.com/square/picasso)|
-[Glide](https://github.com/bumptech/glide)|[Glide 系列使用教程](http://mrfu.me/2016/02/27/Glide_Getting_Started/)
-[Fresco](https://github.com/facebook/fresco)|
+Volley|
 
 #偷懒
 项目|说明|文档
@@ -44,18 +44,19 @@ GreenDao|
 #Log
 项目|说明
 ---|---
-[logger](https://github.com/orhanobut/logger)|简洁的Log工具
+[Logger](https://github.com/orhanobut/logger)|简洁的Log工具
 [Logger](https://github.com/tianzhijiexian/logger)|[更人性化的Log](https://github.com/tianzhijiexian/Android-Best-Practices)
 
 
 #工具
 项目|说明
 ---|---
-[scalpel](https://github.com/JakeWharton/scalpel)|查看布局神器
-[leakcanary](https://github.com/square/leakcanary)|找出内存泄漏
 [BlockCanary](http://blog.zhaiyifan.cn/2016/01/16/BlockCanaryTransparentPerformanceMonitor/)|轻松找出Android App界面卡顿元凶
 [Lambda for Android](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2016/0325/4078.html)|让代码更简洁,避免创建内部类
-[nimbledroid](https://nimbledroid.com/)|[检查APP启动卡顿问题](http://blog.nimbledroid.com/2016/03/21/ways-to-hang-main-thread-zh.html)
+[Leakcanary](https://github.com/square/leakcanary)|找出内存泄漏
+[Nimbledroid](https://nimbledroid.com/)|[检查APP启动卡顿问题](http://blog.nimbledroid.com/2016/03/21/ways-to-hang-main-thread-zh.html)
+[Scalpel](https://github.com/JakeWharton/scalpel)|查看布局神器
+
 
 #文章
 文章|
@@ -64,7 +65,6 @@ GreenDao|
 [Android Bitmap面面观](http://mp.weixin.qq.com/s?__biz=MzA4MjU5NTY0NA==&mid=404530070&idx=1&sn=e2580b69d6ec73dabf8160216aa6702a&scene=4#wechat_redirect)|
 [Android 应用框架演变史](http://mp.weixin.qq.com/s?__biz=MzA4MjU5NTY0NA==&mid=401314593&idx=1&sn=21d83ed33d307944937afe00abfe1ac3&scene=4#wechat_redirect)|
 [APK 魔鬼瘦身](http://mp.weixin.qq.com/s?__biz=MzA4MjU5NTY0NA==&mid=402168736&idx=1&sn=723e9fddacfecdfbeee3d3365f6d1a2f&scene=4#wechat_redirect)|
-
 [关于烂代码的那些事](http://mp.weixin.qq.com/s?__biz=MzA4MjU5NTY0NA==&mid=401314593&idx=1&sn=21d83ed33d307944937afe00abfe1ac3&scene=4#wechat_redirect)|
 [如何自定义Android注解？](http://mp.weixin.qq.com/s?__biz=MzA4MjU5NTY0NA==&mid=402332603&idx=1&sn=a04a622f8feb0ce35bc2356adfb18698&scene=4#wechat_redirect)|
 [微信Android客户端后台保活经验分享](https://mp.weixin.qq.com/s?__biz=MzA3ODg4MDk0Ng==&mid=403254393&idx=1&sn=8dc0e3a03031177777b5a5876cb210cc&scene=1&srcid=0402uDoqRaKQffY51mJ0N8G6&key=710a5d99946419d98b567bf76a8e4f11bb50879bb6d2238881b4ab84e10cc0840e943ea3003a0106d73399e336311cec&ascene=0&uin=MTYzMjY2MTE1&devicetype=iMac+MacBookPro10%2C1+OSX+OSX+10.11.4+build(15E65)&version=11020201&pass_ticket=gGDjhIlTQ7vPThoj%2FZ5xrdCNNXWwfjAXhqZnbyhnJmQ%3D)|
