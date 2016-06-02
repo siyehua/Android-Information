@@ -2,9 +2,10 @@
 模式|资料
 ---|---
 MVC|传统Android框架
-[MVP](http://www.v2ex.com/t/212456#reply6)|[Android MVP 实战——MVP 在 Android 中的简单应用](http://www.v2ex.com/t/212695#reply5)
+MVP|[Android MVP 探究与总结](http://www.v2ex.com/t/212456#reply6)
+  |[Android MVP 实战——MVP 在 Android 中的简单应用](http://www.v2ex.com/t/212695#reply5)
   |[MVP详解 (上)](http://www.jianshu.com/p/9a6845b26856)
-  |[MVP详解 (下)](http://www.jianshu.com/p/0590f530c617#)  
+  |[MVP详解 (下)](http://www.jianshu.com/p/0590f530c617#)
 MVVM|[Android MVVM到底是啥？看完就明白了](http://mp.weixin.qq.com/s?__biz=MzA4MjU5NTY0NA==&mid=401410759&idx=1&sn=89f0e3ddf9f21f6a5d4de4388ef2c32f&scene=4#wechat_redirect)
 
 #网络请求
@@ -15,15 +16,17 @@ MVVM|[Android MVVM到底是啥？看完就明白了](http://mp.weixin.qq.com/s?_
 [RxJava](https://github.com/ReactiveX/RxJava) |[Rx入门介绍](http://blog.csdn.net/lzyzsd?viewmode=contents)
 [RxJava For RxAndroid](https://github.com/ReactiveX/RxAndroid) |[Rx For Android 入门介绍](http://gank.io/post/560e15be2dca930e00da1083#toc_26)
 [RxJava For RxBingding](https://github.com/JakeWharton/RxBinding)|
-[Volley](https://github.com/siyehua/VolleyDemo)|[Volley使用详解](http://blog.csdn.net/guolin_blog/article/details/17482095)
+[Volley]|[Volley使用详解](http://blog.csdn.net/guolin_blog/article/details/17482095)
+ |[Volley封装Demo]((https://github.com/siyehua/VolleyDemo))
+
 
 #图片加载
 项目|链接
 ---|---
-[Fresco](https://github.com/facebook/fresco)|
+[Fresco](https://github.com/facebook/fresco)|[Fresco中文手册](http://www.fresco-cn.org/)
 [Glide](https://github.com/bumptech/glide)|[Glide 系列使用教程](http://mrfu.me/2016/02/27/Glide_Getting_Started/)
 ImageLoder|
-[Picasso](https://github.com/square/picasso)|
+[Picasso](https://github.com/square/picasso)|[官方使用手册](http://square.github.io/picasso/)
 Volley|
 
 #偷懒
