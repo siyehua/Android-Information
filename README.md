@@ -67,6 +67,7 @@ GreenDao|
 ---|---
 [Android 6.0运行时权限，看这篇就够了](http://droidyue.com/blog/2016/01/17/understanding-marshmallow-runtime-permission/)|
 [Android Bitmap面面观](http://mp.weixin.qq.com/s?__biz=MzA4MjU5NTY0NA==&mid=404530070&idx=1&sn=e2580b69d6ec73dabf8160216aa6702a&scene=4#wechat_redirect)|
+[Adnroid Notificaton详解](http://blog.csdn.net/vipzjyno1/article/details/25248021)|
 [Android 应用框架演变史](http://mp.weixin.qq.com/s?__biz=MzA4MjU5NTY0NA==&mid=401314593&idx=1&sn=21d83ed33d307944937afe00abfe1ac3&scene=4#wechat_redirect)|
 [APK 魔鬼瘦身](http://mp.weixin.qq.com/s?__biz=MzA4MjU5NTY0NA==&mid=402168736&idx=1&sn=723e9fddacfecdfbeee3d3365f6d1a2f&scene=4#wechat_redirect)|
 [关于烂代码的那些事](http://mp.weixin.qq.com/s?__biz=MzA4MjU5NTY0NA==&mid=401314593&idx=1&sn=21d83ed33d307944937afe00abfe1ac3&scene=4#wechat_redirect)|
