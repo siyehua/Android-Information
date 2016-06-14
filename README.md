@@ -63,10 +63,17 @@ GreenDao|
 [Nimbledroid](https://nimbledroid.com/)|[检查APP启动卡顿问题](http://blog.nimbledroid.com/2016/03/21/ways-to-hang-main-thread-zh.html)
 [Scalpel](https://github.com/JakeWharton/scalpel)|查看布局神器
 
+#其他
+类目|说明
+---|---
+[Parcelable序列化插件](https://github.com/siyehua/Android-For-Note/blob/master/android-parcelable-intellij-plugin.jar)|AS插件
+[深入理解Gradle](https://github.com/siyehua/Android-For-Note/blob/master/%E6%B7%B1%E5%85%A5%E7%90%86%E8%A7%A3Android%E4%B9%8BGradle.pdf)|Gradle说明
+
 #文章
 标题|类目
 ---|---
 [数据库框架：greenDAO vs LiteOrm](http://mp.weixin.qq.com/s?__biz=MzA4MjU5NTY0NA==&mid=2653418624&idx=1&sn=661e0e4d6931e7d18560fd30ef2a20a2&scene=4#wechat_redirect)|数据库
+[Gradle 用法总结](http://jijiaxin89.com/2015/08/29/gradle-use-note/)|Gradle
 [Gradle 构建最佳实践](http://mp.weixin.qq.com/s?__biz=MzA4MjU5NTY0NA==&mid=2653418586&idx=1&sn=6d85a5733bac3d1e462e908cc49d9502&scene=4#wechat_redirect)|Gradle
 [打通Gradle的任督二脉](http://mp.weixin.qq.com/s?__biz=MzI1NjEwMTM4OA==&mid=2651231835&idx=1&sn=c9973f4476fb98a3003ca86aeb3744eb&scene=4#wechat_redirect)|Gradle
 [Material Design技术分享](http://mp.weixin.qq.com/s?__biz=MzI1NjEwMTM4OA==&mid=2651231829&idx=1&sn=2418c741e7f0e41f6ac4fff4dc2de6f0&scene=4#wechat_redirect)|Material Design
