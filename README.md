@@ -62,17 +62,34 @@ GreenDao|
 [Scalpel](https://github.com/JakeWharton/scalpel)|查看布局神器
 
 
-#文章
-文章|
+文章|类目
 ---|---
-[Android 6.0运行时权限，看这篇就够了](http://droidyue.com/blog/2016/01/17/understanding-marshmallow-runtime-permission/)|
-[Android Bitmap面面观](http://mp.weixin.qq.com/s?__biz=MzA4MjU5NTY0NA==&mid=404530070&idx=1&sn=e2580b69d6ec73dabf8160216aa6702a&scene=4#wechat_redirect)|
-[Adnroid Notificaton详解](http://blog.csdn.net/vipzjyno1/article/details/25248021)|
-[Android 应用框架演变史](http://mp.weixin.qq.com/s?__biz=MzA4MjU5NTY0NA==&mid=401314593&idx=1&sn=21d83ed33d307944937afe00abfe1ac3&scene=4#wechat_redirect)|
-[APK 魔鬼瘦身](http://mp.weixin.qq.com/s?__biz=MzA4MjU5NTY0NA==&mid=402168736&idx=1&sn=723e9fddacfecdfbeee3d3365f6d1a2f&scene=4#wechat_redirect)|
-[关于烂代码的那些事](http://mp.weixin.qq.com/s?__biz=MzA4MjU5NTY0NA==&mid=401314593&idx=1&sn=21d83ed33d307944937afe00abfe1ac3&scene=4#wechat_redirect)|
-[如何自定义Android注解？](http://mp.weixin.qq.com/s?__biz=MzA4MjU5NTY0NA==&mid=402332603&idx=1&sn=a04a622f8feb0ce35bc2356adfb18698&scene=4#wechat_redirect)|
-[微信Android客户端后台保活经验分享](https://mp.weixin.qq.com/s?__biz=MzA3ODg4MDk0Ng==&mid=403254393&idx=1&sn=8dc0e3a03031177777b5a5876cb210cc&scene=1&srcid=0402uDoqRaKQffY51mJ0N8G6&key=710a5d99946419d98b567bf76a8e4f11bb50879bb6d2238881b4ab84e10cc0840e943ea3003a0106d73399e336311cec&ascene=0&uin=MTYzMjY2MTE1&devicetype=iMac+MacBookPro10%2C1+OSX+OSX+10.11.4+build(15E65)&version=11020201&pass_ticket=gGDjhIlTQ7vPThoj%2FZ5xrdCNNXWwfjAXhqZnbyhnJmQ%3D)|
+[Android 6.0运行时权限，看这篇就够了](http://droidyue.com/blog/2016/01/17/understanding-marshmallow-runtime-permission/)|权限
+
+[Android Bitmap面面观](http://mp.weixin.qq.com/s?__biz=MzA4MjU5NTY0NA==&mid=404530070&idx=1&sn=e2580b69d6ec73dabf8160216aa6702a&scene=4#wechat_redirect)|图片
+[Android 三大图片对比](http://mp.weixin.qq.com/s?__biz=MzAxNjI3MDkzOQ==&mid=400056342&idx=1&sn=894325d70f16a28bfe8d6a4da31ec304&scene=4#wechat_redirect)|图片
+
+[Adnroid Notificaton详解](http://blog.csdn.net/vipzjyno1/article/details/25248021)|通知
+
+[Android 内存 优化杂谈](http://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ==&mid=400656149&idx=1&sn=122b4f4965fafebf78ec0b4fce2ef62a&scene=4#wechat_redirect)|内存
+
+[Android 相机 开发的坑](http://mp.weixin.qq.com/s?__biz=MzI1MTA1MzM2Nw==&mid=401454605&idx=1&sn=d5a16f6dc13e7581fec08a4e704cd5d0&scene=4#wechat_redirect)|相机
+
+[Android 应用框架演变史](http://mp.weixin.qq.com/s?__biz=MzA4MjU5NTY0NA==&mid=401314593&idx=1&sn=21d83ed33d307944937afe00abfe1ac3&scene=4#wechat_redirect)|框架
+
+
+[Android 安装打包相关知识](http://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ==&mid=208008519&idx=1&sn=278b7793699a654b51588319b15b3013&scene=4#wechat_redirect)|优化
+[Android 会话速度提高](http://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ==&mid=207548094&idx=1&sn=1a277620bc28349368b68ed98fbefebe&scene=4#wechat_redirect)|优化
+[APK 魔鬼瘦身](http://mp.weixin.qq.com/s?__biz=MzA4MjU5NTY0NA==&mid=402168736&idx=1&sn=723e9fddacfecdfbeee3d3365f6d1a2f&scene=4#wechat_redirect)|优化
+[关于烂代码的那些事](http://mp.weixin.qq.com/s?__biz=MzA4MjU5NTY0NA==&mid=401314593&idx=1&sn=21d83ed33d307944937afe00abfe1ac3&scene=4#wechat_redirect)|优化
+
+[Android 热修复框架官方介绍资料](http://mp.weixin.qq.com/s?__biz=MzAxNjI3MDkzOQ==&mid=2654472539&idx=1&sn=9e813751d50a91bc0a8e4a2515d66aee&scene=4#wechat_redirect)|热修复
+[动态写入APK消息](http://mp.weixin.qq.com/s?__biz=MzAxNjI3MDkzOQ==&mid=405919721&idx=1&sn=fdad21c0bc74d90e66443d488e8cdc8f&scene=4#wechat_redirect)|热修复
+
+[Android 安全Https通信](http://mp.weixin.qq.com/s?__biz=MzAxNjI3MDkzOQ==&mid=405475595&idx=1&sn=5bb0c2a6f1da40ee12048e5093d78c96&scene=4#wechat_redirect)|网络
+
+[如何自定义Android注解？](http://mp.weixin.qq.com/s?__biz=MzA4MjU5NTY0NA==&mid=402332603&idx=1&sn=a04a622f8feb0ce35bc2356adfb18698&scene=4#wechat_redirect)|其他
+[微信Android客户端后台保活经验分享](https://mp.weixin.qq.com/s?__biz=MzA3ODg4MDk0Ng==&mid=403254393&idx=1&sn=8dc0e3a03031177777b5a5876cb210cc&scene=1&srcid=0402uDoqRaKQffY51mJ0N8G6&key=710a5d99946419d98b567bf76a8e4f11bb50879bb6d2238881b4ab84e10cc0840e943ea3003a0106d73399e336311cec&ascene=0&uin=MTYzMjY2MTE1&devicetype=iMac+MacBookPro10%2C1+OSX+OSX+10.11.4+build(15E65)&version=11020201&pass_ticket=gGDjhIlTQ7vPThoj%2FZ5xrdCNNXWwfjAXhqZnbyhnJmQ%3D)|其他
 
 
 
