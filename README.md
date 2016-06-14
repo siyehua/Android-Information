@@ -78,6 +78,7 @@ GreenDao|
 [Android 应用框架最佳实践](http://mp.weixin.qq.com/s?__biz=MzA4MjU5NTY0NA==&mid=400620365&idx=1&sn=1bac4bf29686cea8b05f970f2d714155&scene=4#wechat_redirect)|框架
 [Android 安装打包相关知识](http://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ==&mid=208008519&idx=1&sn=278b7793699a654b51588319b15b3013&scene=4#wechat_redirect)|优化
 [Android 会话速度提高](http://mp.weixin.qq.com/s?__biz=MzAwNDY1ODY2OQ==&mid=207548094&idx=1&sn=1a277620bc28349368b68ed98fbefebe&scene=4#wechat_redirect)|优化
+[Android 性能优化典范](http://hukai.me/android-performance-patterns/)|优化
 [APK 魔鬼瘦身](http://mp.weixin.qq.com/s?__biz=MzA4MjU5NTY0NA==&mid=402168736&idx=1&sn=723e9fddacfecdfbeee3d3365f6d1a2f&scene=4#wechat_redirect)|优化
 [关于烂代码的那些事](http://mp.weixin.qq.com/s?__biz=MzA4MjU5NTY0NA==&mid=401314593&idx=1&sn=21d83ed33d307944937afe00abfe1ac3&scene=4#wechat_redirect)|优化
 [Android 热修复框架官方介绍资料](http://mp.weixin.qq.com/s?__biz=MzAxNjI3MDkzOQ==&mid=2654472539&idx=1&sn=9e813751d50a91bc0a8e4a2515d66aee&scene=4#wechat_redirect)|热修复
@@ -92,6 +93,7 @@ GreenDao|
 #网站
 网站|介绍
 ---|---
+[Android 官方培训课程中文版](http://hukai.me/android-training-course-in-chinese/index.html)|
 [开发者周报](http://www.androidweekly.cn/)|
 [泡在网上的日子](http://www.jcodecraeer.com/plus/list.php?tid=16)|
 [干货集中营](http://gank.io/)|
