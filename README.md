@@ -15,6 +15,7 @@ MVVM|[Android MVVM到底是啥？看完就明白了](http://mp.weixin.qq.com/s?_
 [Retrofit](https://github.com/square/retrofit)|[Retrofit使用教程](http://www.devwiki.net/categories/Retrofit%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B/)
 [RxJava](https://github.com/ReactiveX/RxJava) |[Rx入门介绍](http://blog.csdn.net/lzyzsd?viewmode=contents)
 [RxJava For RxAndroid](https://github.com/ReactiveX/RxAndroid) |[Rx For Android 入门介绍](http://gank.io/post/560e15be2dca930e00da1083#toc_26)
+[Agera](https://github.com/google/agera)|[要做一个有冒险精神的人！开启漫漫的agera之旅](http://zjutkz.net/2016/04/23/%E8%A6%81%E5%81%9A%E4%B8%80%E4%B8%AA%E6%9C%89%E5%86%92%E9%99%A9%E7%B2%BE%E7%A5%9E%E7%9A%84%E4%BA%BA%EF%BC%81%E5%BC%80%E5%90%AF%E6%BC%AB%E6%BC%AB%E7%9A%84agera%E4%B9%8B%E6%97%85/)
 [RxJava For RxBingding](https://github.com/JakeWharton/RxBinding)|
 Volley|[Volley使用详解](http://blog.csdn.net/guolin_blog/article/details/17482095)
  |[Volley封装Demo](https://github.com/siyehua/VolleyDemo)
