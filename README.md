@@ -60,6 +60,7 @@ GreenDao|
 [Android Tools](http://www.androiddevtools.cn/)|Android SDK离线下载
 [April1985](http://www.april1985.com/android-sdk-offline/)|Android SDK离线下载
 [BlockCanary](http://blog.zhaiyifan.cn/2016/01/16/BlockCanaryTransparentPerformanceMonitor/)|轻松找出Android App界面卡顿元凶
+[Bugly下载SDK和Tools](http://android-mirror.bugly.qq.com:8080/)|不用翻墙即可下载SDK和工具
 [Lambda for Android](http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2016/0325/4078.html)|让代码更简洁,避免创建内部类
 [Leakcanary](https://github.com/square/leakcanary)|找出内存泄漏
 [Nimbledroid](https://nimbledroid.com/)|[检查APP启动卡顿问题](http://blog.nimbledroid.com/2016/03/21/ways-to-hang-main-thread-zh.html)
