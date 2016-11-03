@@ -67,6 +67,8 @@ GreenDao|
 [Leakcanary](https://github.com/square/leakcanary)|找出内存泄漏
 [Nimbledroid](https://nimbledroid.com/)|[检查APP启动卡顿问题](http://blog.nimbledroid.com/2016/03/21/ways-to-hang-main-thread-zh.html)
 [Online-convert](http://www.online-convert.com/)|媒体文件在线转换
+[Convertio](https://convertio.co/zh/)|文件在线转换
+[VideoToGif](http://ezgif.com/video-to-gif)|视频转gif
 [Scalpel](https://github.com/JakeWharton/scalpel)|查看布局神器
 [Socket.IO](http://socket.io/blog/native-socket-io-and-android/)|Socket IM
 [Tinypng](https://tinypng.com/)|图片压缩
